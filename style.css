@@ -11,10 +11,10 @@
 .getsec1{
     background-size: cover;
     background-repeat: no-repeat;
-    background: url("./IMG\ 5.png");
+    background: url("./IMG\ 1.png");
     height: 95vh;
     width: 100%;
-    margin-bottom: 30vh;
+    margin-bottom: 70vh;
     position: relative;
 }
 .getsec1 p{
@@ -48,8 +48,34 @@
     font-style: normal;
     font-weight: 300;
     font-size: 40px;
-    line-height: 59px;
+    /* line-height: 59px; */
     color: #088F4E; 
+    width: 75%;
+    text-align: center;
+    display:inline-block;
+    padding:1em;
+    /* padding-right: 7px; */
+    background: #FFFFFF;
+    border: 2px solid #076236;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.img2{
+    width: 50px;
+    height: 564px;
+    left: 5px;
+    /* top: 1242px; */
+    padding-top: 50px;
+    padding-bottom: 45px;
+}
+.slider p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 70px;
+    color: #088F4E;
+    padding-top: 2%;
+    padding-bottom: 4%;
 }
 .getsec4{
     margin-bottom: 5vh;
